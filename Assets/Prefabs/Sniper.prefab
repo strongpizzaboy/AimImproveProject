@@ -27,7 +27,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4109876150836862651}
   serializedVersion: 2
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -13.28, y: 1.77, z: -39.05}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -63,7 +63,7 @@ MonoBehaviour:
   normal_fov: 60
   scope_overlay: {fileID: 0}
   shoot_sfx: {fileID: 8300000, guid: f8d569aea81e4774e91d321bd6331c9a, type: 3}
-  reload_sfx: {fileID: 0}
+  reload_sfx: {fileID: 8300000, guid: 06ef2c5ffba76b948a94e263612947f8, type: 3}
   empty_sfx: {fileID: 0}
   scope_sfx: {fileID: 0}
   animator: {fileID: 0}

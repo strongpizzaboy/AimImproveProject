@@ -94,7 +94,7 @@ MonoBehaviour:
   normal_fov: 60
   scope_overlay: {fileID: 0}
   shoot_sfx: {fileID: 8300000, guid: b29fa7e4ef4cf754da051ed61f805752, type: 3}
-  reload_sfx: {fileID: 0}
+  reload_sfx: {fileID: 8300000, guid: 2123fa0f692b028419de5487fda64507, type: 3}
   empty_sfx: {fileID: 0}
   scope_sfx: {fileID: 0}
   animator: {fileID: 0}
