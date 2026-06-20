@@ -129,6 +129,7 @@ public class LevelManager : MonoBehaviour
         else
         {
             Debug.LogWarning("Next level name not set!");
+            Time.timeScale = 0f;
         }
     }
 
